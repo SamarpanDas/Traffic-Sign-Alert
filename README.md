@@ -16,5 +16,5 @@ The train and test set used now resembled the same format.
                             
                             
                             
-                          Train/Test set ---> 43 subfolders (named from 0 - 42 ; referring to the 43 classes) ---> containing their respective images.
+              Train/Test set ---> 43 subfolders (named from 0 - 42 ; referring to the 43 classes) ---> containing their respective images.
 
